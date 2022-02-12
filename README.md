@@ -1,1 +1,1 @@
-# Password-Generator-Encryptor
+Password Generator
